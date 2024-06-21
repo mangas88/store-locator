@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Script di caricamento mappa Google -->
+  <script
+    src="https://maps.googleapis.com/maps/api/js?v=weekly"
+    defer
+  ></script>
+  <!-- Script caricamento per raggruppare i markers -->
+  <script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js" defer></script>
+  <script src="script.js" type="module"></script>
+</head>
+<body>
+  <!-- Contenitore della mappa -->
+  <div id="drawer">
+    <div class="category-buttons-container">
+      <!-- Pulsanti categoria -->
+      <button data-filter="all" class="active">Tutti</button>
+      <button data-filter="computer">Computer</button>
+      <button data-filter="tv">TV</button>
+      <button data-filter="smartphone">Smartphone</button>
+    </div>
+    <div class="search-container">
+      <!-- Input per filtro -->
+      <input type="text" id="search-store" placeholder="Filtra per nome o per indirizzo">
+      <button id="clear-input">X</button>
+    </div>
+    <div id="stores-list">
+      <!-- Elenco di Stores -->
+    </div>
+  </div>
+  <div id="map"></div>
+</body>
+</html>

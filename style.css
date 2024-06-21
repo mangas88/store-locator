@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+#map {
+  height: 100vh;
+}
+
+#drawer {
+  width: 300px;
+  float: left;
+  background-color: lightblue;
+  max-height: 100vh;
+  overflow-y: auto;
+}
+
+.store {
+  background-color: white;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.category-buttons-container, .search-container {
+  padding: 0.5rem;
+}
+
+.active {
+  background-color: lightgreen;
+}

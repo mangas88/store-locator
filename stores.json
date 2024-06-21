@@ -1,0 +1,214 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "coords": { "lat": 46.062339, "lng": 8.6969961 }, 
+      "name": "Tutto Tech",
+      "address": "Viale Vittorio Veneto, 6, 28822 Cannobio VB",
+      "email": "info@tuttotech.it",
+      "phone": "+39 0332 56489",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv", "smartphone"]
+    },
+    {
+      "id": 2,
+      "coords": { "lat": 45.0646745, "lng": 7.6704724 }, 
+      "name": "Electroshop",
+      "address": "Corso Vittorio Emanuele II, 77",
+      "email": "elettronica@electroshop.it",
+      "phone": "+39 011 51282",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "smartphone"]
+    },
+    {
+      "id": 3,
+      "coords": { "lat": 45.0477974, "lng": 7.6383623 }, 
+      "name": "Rossi Forniture",
+      "address": "Via Gorizia, 82, 10136 Torino TO",
+      "email": "rossiforniture@gmail.com",
+      "phone": "+39 011 453642",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["tv", "smartphone"]
+    },
+    {
+      "id": 4,
+      "coords": { "lat": 44.4008426, "lng": 8.9487294  }, 
+      "name": "Media Mondo",
+      "address": "Via Pisacane, 17, 16129 Genova GE",
+      "email": "info@mediamondo.it",
+      "phone": "+39 010 952678",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["tv"]
+    },
+    {
+      "id": 5,
+      "coords": { "lat": 45.4783101, "lng": 9.2016354 },
+      "name": "Ivan forniture",
+      "address": "Via Lodovico Settala, 11, 20124 Milano MI",
+      "email": "ivanforniture@hotmail.it",
+      "phone": "+39 02 476789",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer"]
+    },
+    {
+      "id": 6,
+      "coords": { "lat": 45.4538468, "lng": 9.1557219 }, 
+      "name": "PC & TV",
+      "address": "Via Andrea Solari, 5, 20144 Milano MI",
+      "email": "info@pc-tv-shop.it",
+      "phone": "+39 02 83023",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 7,
+      "coords": { "lat": 45.520963, "lng": 10.2118161 }, 
+      "name": "MyComputer",
+      "address": "Via Alessandro Lamarmora, 173, 25124 Brescia BS",
+      "email": "info@mycomputer.com",
+      "phone": "+39 02 48954",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 8,
+      "coords": { "lat": 45.474107, "lng": 12.2183023 }, 
+      "name": "Mario Bianchi srl",
+      "address": "Via Angelo Scarsellini, 38, 30175 Venezia VE",
+      "email": "mariobianchi@libero.it",
+      "phone": "+39 348 43556489",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 9,
+      "coords": { "lat": 44.4943771, "lng": 11.3298328 }, 
+      "name": "Pc specialist",
+      "address": "Via Sant'Isaia, 33A, 40123 Bologna BO",
+      "email": "amministrazione@pc-specialist.it",
+      "phone": "+39 065 98412",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 10,
+      "coords": { "lat": 43.7847764, "lng": 11.2288003 }, 
+      "name": "Bottega elettronica",
+      "address": "Via del Ponte alle Mosse, 136C, 50144 Firenze FI",
+      "email": "info@bottegaelettronica.it",
+      "phone": "+39 338 6548972",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "smartphone"]
+    },
+    {
+      "id": 11,
+      "coords": { "lat": 42.766422, "lng": 11.1107359 }, 
+      "name": "Computer 2000",
+      "address": "Via Pola, 6, 58100 Grosseto GR",
+      "email": "computer2000@gmail.com",
+      "phone": "+39 045 258246",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 12,
+      "coords": { "lat": 41.865997, "lng": 14.745141 }, 
+      "name": "Euro TV",
+      "address": "Via Pepe G., 80, 86030 Acquaviva Collecroce CB",
+      "email": "contatto@eurotv.it",
+      "phone": "+39 032 564866",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 13,
+      "coords": { "lat": 40.8462143, "lng": 14.3296773 }, 
+      "name": "PC shop",
+      "address": "Via Filomena Marturano, 45, 80147 Napoli NA",
+      "email": "vendite@pcshop.it",
+      "phone": "+39 023 45687",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 14,
+      "coords": { "lat": 41.3198266, "lng": 16.2804306 }, 
+      "name": "Antonio Rossi",
+      "address": "Corso Giuseppe Garibaldi, 113, 76121 Barletta BT",
+      "email": "antoniorossi@gmail.com",
+      "phone": "+39 056 469536",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "smartphone"]
+    },
+    {
+      "id": 15,
+      "coords": { "lat": 40.6444702, "lng": 15.8224197 }, 
+      "name": "Cyber shop",
+      "address": "Via dei Mille, 66, 85100 Potenza PZ",
+      "email": "vendite@cybershop.it",
+      "phone": "+39 0213 668412",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 16,
+      "coords": { "lat": 40.7008468, "lng": 17.3354921 }, 
+      "name": "Rossi Matteo",
+      "address": "Via Giovanni Mongelli, 34, 74015 Martina Franca TA",
+      "email": "rossimatteo@hotmail.it",
+      "phone": "+39 021 2267488",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 17,
+      "coords": { "lat": 37.3584464, "lng": 13.8470502 }, 
+      "name": "Tech supply",
+      "address": "Via Torino, 9, 92024 Canicattì AG",
+      "email": "info@techsupply.it",
+      "phone": "+39 356 115605",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["smartphone", "tv"]
+    },
+    {
+      "id": 18,
+      "coords": { "lat": 39.9025599, "lng": 8.5916941 }, 
+      "name": "Russo & C.",
+      "address": "Via Carmine, 34, 09170 Oristano OR",
+      "email": "russo2349@gmail.com",
+      "phone": "+39 235 2134138",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    },
+    {
+      "id": 19,
+      "coords": { "lat": 39.261074, "lng": 9.158836 }, 
+      "name": "D.B. srl",
+      "address": "Via Pietro Nenni, 18, 09047 Selargius CA",
+      "email": "info@dbsrl.com",
+      "phone": "+39 345 44166874",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "smartphone"]
+    },
+    {
+      "id": 20,
+      "coords": { "lat": 40.3492577, "lng": 18.1663676 }, 
+      "name": "Always connected",
+      "address": "Via Roberto Caracciolo, 50, 73100 Lecce LE",
+      "email": "info@alwaysconnected.it",
+      "phone": "+39 235 324902",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["smartphone", "tv"]
+    },
+    {
+      "id": 21,
+      "coords": { "lat": 38.0171329, "lng": 12.5420334 }, 
+      "name": "Mondo Computer",
+      "address": "Via Canale Scalabrino, 72, 91100 Trapani TP",
+      "email": "lpetrelli@libero.it",
+      "phone": "+39 356 4681156",
+      "openings": "<ul><li>lun-ven: 9:00-13:00 | 14:00-18:00</li><li>sab: 9:00-13:00</li></ul>",
+      "categories": ["computer", "tv"]
+    }
+  ]
+}
